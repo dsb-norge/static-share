@@ -12,12 +12,11 @@ Dette er oppgaver til kandidater som innkalles til andregangsintervju for stilli
   - [2. Alternativ hosting av egenutviklede applikasjoner i Azure](#2-alternativ-hosting-av-egenutviklede-applikasjoner-i-azure)
   - [3. Terraform - For hele bedriften](#3-terraform---for-hele-bedriften)
   - [4. Security posture i Azure](#4-security-posture-i-azure)
-  - [5. Nettverksrelatert oppgave](#5-nettverksrelatert-oppgave)
 <!-- /vscode-markdown-toc -->
 
 ## Innledning
 
-Under finner du 5 oppgaver innenfor tre forskjellige tema. Oppgavene er nummerert fra 1 til 5 og du velger _èn_ av oppgavene.
+Under finner du 4 oppgaver innenfor tre forskjellige tema. Oppgavene er nummerert fra 1 til 4 og du velger _èn_ av oppgavene.
 
 Det finnes ikke noe "rett" svar på disse oppgavene, de er ment for refleksjon og diskusjon under intervjuet.
 
@@ -68,17 +67,3 @@ Hvordan ville du sørget for en god security posture i et slikt oppsett?
 Hvilke Azure tjenester ville du vurdert å ta i bruk og hvorfor?
 
 Gitt at oppgaven faller på 1-2 personer og ikke et helt SecOps-team, hvilke hensyn blir viktige?
-
-### 5. Nettverksrelatert oppgave
-
-Denne oppgaven består av 3 deloppgaver, velger du denne oppgaven skal alle 3 besvares.
-
-Deloppgavene:
-
-1. Beskriv forskjellen på lag 2 og lag 3-nett
-2. Hvordan logge inn på en Cisco-switch og gjøre følgende;
-   1. Sjekke status på alle interface
-   2. Endre vlan på en port
-   3. Sjekke ruting-tabell
-   4. Sjekke PoE-status på switchporter
-3. DSB bruker Check Point brannmur on-prem. I hvilken rekkefølge blir regelsettet på brannmuren aktivert?
